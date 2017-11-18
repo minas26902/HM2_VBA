@@ -1,2 +1,2 @@
-# HM2_VBA
+# HW2_VBA
 Homework 2 assignment
